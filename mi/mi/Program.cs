@@ -10,6 +10,7 @@ namespace mi
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hig");
         }
     }
 }
